@@ -22,7 +22,6 @@
 ---
 ### Languages
 
-| English  | Russian |  
-| ------------- |:-------------:| 
-|    Upper - Intermediate   |  Proficiency    |
-| B2     | C2     |
+* #### *English B2* *Upper - Intermediate*
+* #### *Russian C2 Proficiency*
+* #### *Kazakh C2 Native*
