@@ -16,6 +16,7 @@
 * #### Figma
 * #### HTML5
 * #### Adobe Photoshop
+* #### Git/Github
 ---
 ### Courses
 ##### https://rs.school/js/
